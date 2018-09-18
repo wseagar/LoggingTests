@@ -1,7 +1,6 @@
 ﻿using System;
 using LightInject;
 using Logging.Core;
-using Serilog;
 
 namespace Logging
 {
